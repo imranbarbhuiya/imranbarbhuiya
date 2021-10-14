@@ -40,7 +40,7 @@
 <div>
  <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark" alt="Parbez"  /></p>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight">
-  <img align="center" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight" />
+  <img align="center" width="900" hight="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight" />
 </a>
  </div>
 
