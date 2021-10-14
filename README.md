@@ -20,7 +20,7 @@
 
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
   <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia" />
