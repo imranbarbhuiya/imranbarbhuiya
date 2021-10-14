@@ -26,6 +26,25 @@
 
 <br />
 
+
+## :trophy: My Github Stats
+
+<div>
+ <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
+  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia" />
+</a>
+</div>
+<br/>
+<div>
+ <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark" alt="Parbez"  /></p>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight" />
+</a>
+ </div>
+
 ## 🛠️ My Skills
 
 ### Language
@@ -119,21 +138,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-## :trophy: My Github Stats
-
-<div>
- <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
-  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia" />
-</a>
-</div>
-<hr/>
-<div>
- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark" alt="Parbez"  /></p>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight" />
-</a>
- </div>
