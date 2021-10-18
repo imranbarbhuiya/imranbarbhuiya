@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Imran Barbhuiya you can call me Parbez.</h1>
 <p align="center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Full+stack+developer;Website+developer;App+developer;Learning+new+things+everyday)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="
+          https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Full+stack+developer;Website+developer;App+developer;Learning+new+things+everyday"></a>
           </p>
 <hr/>
 <h4 align="center">I'm a full stack developer, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I I love to learn new skills.</h4>
