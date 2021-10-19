@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Full+stack+developer;Website+developer;App+developer;Learning+new+things+everyday"></a>
 </p>
 <hr/>
-<h4 align="center">I'm a full stack developer, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I I love to learn new skills.</h4>
+<h4 align="center">I'm a full stack developer, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I love to learn new skills.</h4>
 <br>
 
 ## 🤹 My Skills
@@ -15,7 +15,7 @@
 - 🔥 Full Stack Developer.
 - 📱 I'm an App Developer.
 - 🌐 I'm a Webdeveloper.
-- 🐱‍💻 Ethical Hacker and Pentester
+- 💻 Ethical Hacker and Pentester
 - 🤖 learning advance Artificial Intelligence and Machine Learning.
 - 👨‍💻 Open to work.
 
