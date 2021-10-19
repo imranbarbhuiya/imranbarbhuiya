@@ -11,7 +11,8 @@
 
 ## 🤹 My Skills
 
-- 🔥 Full Stack Developer
+- ❤ I'm a self-taught passionate
+- 🔥 Full Stack Developer.
 - 📱 I'm an App Developer.
 - 🌐 I'm a Webdeveloper.
 - 🐱‍💻 Ethical Hacker and Pentester
