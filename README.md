@@ -23,12 +23,14 @@
 ## :trophy: My Github Stats
 
 <div>
+  <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight&count-private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight&count-private=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
-  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia&count-private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia&count-private=true" />
 </a>
+  </p>
 </div>
 <br/>
 <div>
@@ -40,23 +42,18 @@
   <div>
      <p align="center">
        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-          <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+          <img align"left" alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
-          <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+          <img align="right" alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
     </p>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </div>
-  <hr/>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
  </div>
+ <hr/>
+ <br/>
 
 ## 🛠️ My Skills
 
