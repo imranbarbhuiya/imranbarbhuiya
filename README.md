@@ -1,5 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=imranbarbhuiya.imranbarbhuiya)
 [![Github](https://img.shields.io/github/followers/imranbarbhuiya?label=Follow&style=social)](https://github.com/imranbarbhuiya)
+[![wakatime](https://wakatime.com/badge/user/7da43ba9-2bc5-4a32-baea-19e38fc777e2.svg)](https://wakatime.com/@7da43ba9-2bc5-4a32-baea-19e38fc777e2)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Imran Barbhuiya you can call me Parbez.</h1>
 <p align="center">
@@ -38,10 +39,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
+  <hr/>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=imranbarbhuiya&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
   <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=imranbarbhuiya&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-  
+<br/>
 
 <!--START_SECTION:waka-->
 ```text
