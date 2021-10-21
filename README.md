@@ -32,17 +32,23 @@
 </div>
 <br/>
 <div>
- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Parbez"  /></p>
+ <p align="center">
+   <img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Parbez"  />
+  </p>
   <hr/>
   <br/>
- <a  align="left" href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-  <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a  align="right" href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
-  <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <div>
+     <p align="center">
+       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+          <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+          <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </p>
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </div>
   <hr/>
 
 <!--START_SECTION:waka-->
