@@ -23,18 +23,19 @@
 
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight&count-private=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
-  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia" />
+  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia&count-private=true" />
 </a>
 </div>
 <br/>
 <div>
- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark" alt="Parbez"  /></p>
- <a href="https://github.com/imranbarbhuiya">
-  <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Parbez"  /></p>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+  <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </div>
 
 ## 🛠️ My Skills
