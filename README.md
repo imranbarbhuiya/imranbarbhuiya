@@ -33,10 +33,10 @@
 <div>
  <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark" alt="Parbez"  /></p>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&hide=php&theme=tokyonight" />
+  <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
  <br/>
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </div>
 
 ## 🛠️ My Skills
