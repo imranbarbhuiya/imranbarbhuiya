@@ -35,11 +35,16 @@
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
   <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=imranbarbhuiya&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
   <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=imranbarbhuiya&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  </div>
 
 ## 🛠️ My Skills
@@ -132,10 +137,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
