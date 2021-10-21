@@ -40,7 +40,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
   <hr/>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=imranbarbhuiya&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
   <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
