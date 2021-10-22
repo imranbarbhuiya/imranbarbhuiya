@@ -42,10 +42,10 @@
   <div>
      <p align="center">
        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-          <img align"left" alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
-          <img align="right" alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
     </p>
     <br/>
