@@ -24,7 +24,7 @@
 
 <div>
   <p align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+ <a href="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=imranbarbhuiya&count_private=true&show_icons=true&theme=tokyonight&count-private=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
