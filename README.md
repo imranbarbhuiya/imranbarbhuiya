@@ -55,6 +55,10 @@
  <hr/>
  <br/>
 
+## Reach Me
+
+![discord.com/app](https://discord.c99.nl/widget/theme-1/758880890159235083.png)
+
 ## 🛠️ My Skills
 
 ### Language
