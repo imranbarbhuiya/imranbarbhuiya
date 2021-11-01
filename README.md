@@ -18,7 +18,7 @@
 - 🌐 I'm a Webdeveloper.
 - 💻 Ethical Hacker and Pentester
 - 🤖 learning advance Artificial Intelligence and Machine Learning.
-- 👨‍💻 Open to work.
+- 👨‍💻 Working on [@Codversity](https://github.com/Codversity)
 
 ## :trophy: My Github Stats
 
