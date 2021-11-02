@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=imranbarbhuiya.imranbarbhuiya)
 [![Github](https://img.shields.io/github/followers/imranbarbhuiya?label=Follow&style=social)](https://github.com/imranbarbhuiya)
-[![wakatime](https://wakatime.com/badge/user/7da43ba9-2bc5-4a32-baea-19e38fc777e2.svg)](https://wakatime.com/@7da43ba9-2bc5-4a32-baea-19e38fc777e2)
+[![wakatime](https://wakatime.com/badge/user/7da43ba9-2bc5-4a32-baea-19e38fc777e2.svg)](https://wakatime.com/@Parbez)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Imran Barbhuiya you can call me Parbez.</h1>
 <p align="center">
