@@ -16,10 +16,11 @@
 - 🔥 Full Stack Developer.
 - 📱 I'm an App Developer.
 - 🌐 I'm a Webdeveloper.
-- 💻 Ethical Hacker and Pentester
+- 💻 Ethical Hacker and Pentester.
 - 🤖 learning advance Artificial Intelligence and Machine Learning.
--    Software Engineer specialized in Node.js and Typescript.
-- 👨‍💻 Working on [@Codversity](https://github.com/Codversity)
+- 🧑‍💻 Software Engineer specialized in Node.js and Typescript.
+- 💙 Love to contribute in open source projects. 
+- 🧑‍🚀 Working on [@Codversity](https://github.com/Codversity)
 
 ## :trophy: My Github Stats
 
