@@ -49,7 +49,6 @@
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
           <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Parbez/58585f66-ef32-4864-957c-cf6631860d1a.png" /></a>
     </p>
     <br/>
   </div>
@@ -152,3 +151,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+
+
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Parbez/58585f66-ef32-4864-957c-cf6631860d1a.png" /></a> -->
