@@ -49,6 +49,7 @@
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
           <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Parbez/32913a78-f5d6-414d-8616-8fb5b4d99987.png" /></a>
     </p>
     <br/>
   </div>
