@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=imranbarbhuiya.imranbarbhuiya?style=for-the-badge)
+![](https://visitor-badge.laobi.icu/badge?page_id=imranbarbhuiya.imranbarbhuiya&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/imranbarbhuiya?label=Follow&style=for-the-badge)](https://github.com/imranbarbhuiya)
 [![wakatime](https://wakatime.com/badge/user/7da43ba9-2bc5-4a32-baea-19e38fc777e2.svg?style=for-the-badge)](https://wakatime.com/@Parbez)
 
