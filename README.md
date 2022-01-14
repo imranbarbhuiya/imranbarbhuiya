@@ -12,15 +12,15 @@
 
 ## 🤹 My Skills
 
-- ❤ I'm a self-taught passionate
+- ❤ I'm a self-taught passionate developer.
+- 🤔 Overthinker.
 - 🔥 Full Stack Developer.
-- 📱 I'm an App Developer.
-- 🌐 I'm a Webdeveloper.
+- 📱 App Developer.
+- 🌐 Webdeveloper.
 - 💻 Ethical Hacker and Pentester.
-- 🤖 learning advance Artificial Intelligence and Machine Learning.
+- 🤖 learning advance Artificial Intelligence and Machine Learning and some Rust.
 - 🧑‍💻 Software Engineer specialized in Node.js and Typescript.
 - 💙 Love to contribute in open source projects. 
-- 🧑‍🚀 Working on [@Codversity](https://github.com/Codversity)
 
 ## :trophy: My Github Stats
 
