@@ -20,7 +20,7 @@
 - 💻 Ethical Hacker and Pentester.
 - 🤖 learning advance Artificial Intelligence and Machine Learning and some Rust.
 - 🧑‍💻 Software Engineer specialized in Node.js and Typescript.
-- 💙 Love to contribute in open source projects. 
+- 💙 Love to contribute in open source projects.
 
 ## :trophy: My Github Stats
 
@@ -152,6 +152,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-
-
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Parbez/58585f66-ef32-4864-957c-cf6631860d1a.png" /></a> -->
+
+![](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-contribution-grid-snake.svg)
