@@ -58,8 +58,9 @@
  <br/>
 
 ## Reach Me
-
-![discord.com/app](https://discord.c99.nl/widget/theme-1/758880890159235083.png)
+<a href="https://discord.com/users/758880890159235083" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/758880890159235083?bg=1f1f1f&borderRadius=5px">
+</a>
 
 ## 🛠️ My Skills
 
