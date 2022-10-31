@@ -155,4 +155,5 @@
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Parbez/58585f66-ef32-4864-957c-cf6631860d1a.png" /></a> -->
 
-![](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-contribution-grid-snake.svg)
+![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake.svg#gh-light-mode-only)
+![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake-dark.svg#gh-dark-mode-only)
