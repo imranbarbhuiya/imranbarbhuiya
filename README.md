@@ -64,3 +64,7 @@
 
 ![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/imranbarbhuiya/imranbarbhuiya/main/rengoku-bg.jpg');]{x0000}$}
