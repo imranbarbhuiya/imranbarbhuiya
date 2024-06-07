@@ -58,6 +58,7 @@
  <br/>
 
 ## Reach Me
+
 <a href="https://discord.com/users/758880890159235083" target="_blank">
 	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/758880890159235083?bg=1f1f1f&borderRadius=5px">
 </a>
@@ -65,6 +66,6 @@
 ![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake.svg#gh-light-mode-only)
 ![contrib-graph](https://github.com/imranbarbhuiya/imranbarbhuiya/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/imranbarbhuiya/imranbarbhuiya/main/rengoku-bg.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/imranbarbhuiya/imranbarbhuiya/main/bg.png');]{x0000}$}
+```
