@@ -7,7 +7,7 @@
   <a href="https://github.com/imranbarbhuiya"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Full+stack+developer.;Website+developer.;App+developer.;Open+Source+Enthusiast.;Learning+new+things+everyday."></a>
 </p>
 <hr/>
-<h4 align="center">I'm a full stack developer, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I love to contribute in open source projects. </h4>
+<h4 align="center">I'm a full stack developer, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new designs and codes. I love to contribute to open-source projects. </h4>
 <br>
 
 ## 🤹 My Skills
@@ -17,12 +17,11 @@
 - 🔥 Full Stack Developer.
 - 📱 App Developer.
 - 🌐 Webdeveloper.
-- 💻 Ethical Hacker and Pentester.
-- 🤖 learning advance Artificial Intelligence and Machine Learning and some Rust.
-- 🧑‍💻 Software Engineer specialized in Node.js and Typescript.
-- 💙 Love to contribute in open source projects.
+- 🤖 learning advanced Artificial Intelligence and Machine Learning.
+- 🧑‍💻 Software Engineer specializing in Typescript, Go and Rust.
+- 💙 Love to contribute to open source projects.
 
-## :trophy: My Github Stats
+## :trophy: My GitHub Stats
 
 <div>
   <p align="center">
@@ -36,18 +35,10 @@
 </div>
 <br/>
 <div>
- <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=imranbarbhuiya&custom_title=Parbez's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Parbez"  />
-  </p>
-  <hr/>
-  <br/>
   <div>
      <p align="center">
        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
           <img alt="Imran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranbarbhuiya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-      </a>
-      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
-          <img alt="Imran's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Parbez&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
     </p>
     <br/>
